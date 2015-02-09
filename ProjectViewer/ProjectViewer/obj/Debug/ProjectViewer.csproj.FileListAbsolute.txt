@@ -7,3 +7,5 @@ C:\Users\Grégory\Documents\Visual Studio 2012\Projects\projet-c-sharp\ProjectVi
 C:\Users\Grégory\Documents\Visual Studio 2012\Projects\projet-c-sharp\ProjectViewer\ProjectViewer\obj\Debug\ProjectViewer.exe
 C:\Users\Grégory\Documents\Visual Studio 2012\Projects\projet-c-sharp\ProjectViewer\ProjectViewer\obj\Debug\ProjectViewer.pdb
 C:\Users\Grégory\Documents\Visual Studio 2012\Projects\projet-c-sharp\ProjectViewer\ProjectViewer\obj\Debug\ProjectViewer.Form1.resources
+C:\Users\Grégory\Documents\Visual Studio 2012\Projects\projet-c-sharp\ProjectViewer\ProjectViewer\obj\Debug\ProjectViewer.FormCreerAlbum.resources
+C:\Users\Grégory\Documents\Visual Studio 2012\Projects\projet-c-sharp\ProjectViewer\ProjectViewer\obj\Debug\ProjectViewer.PictureDetails.resources

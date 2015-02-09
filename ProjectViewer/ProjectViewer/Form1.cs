@@ -16,12 +16,14 @@ namespace ProjectViewer
         FormCreerAlbum formCreerAlbum;
         public Form1()
         {
+            album = new List<Album>();
             InitializeComponent();
         }
 
         private void btn_creerAlbum_Click(object sender, EventArgs e)
         {
-            formCreerAlbum = new FormCreerAlbum();
+            Album myAlbum = new Album();
+            formCreerAlbum = new FormCreerAlbum(myAlbum);
             if (formCreerAlbum.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
 
