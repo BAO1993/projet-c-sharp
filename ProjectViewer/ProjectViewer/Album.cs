@@ -9,6 +9,9 @@ namespace ProjectViewer
     public class Album
     {
 
+
+
+
         
         public List<Picture> pictures;
         private String title;
